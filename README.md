@@ -18,6 +18,14 @@ A modern, chat-based text-to-image generation application powered by FLUX.1 Schn
 - User Management: Individual user accounts with conversation history
 - Real-time Generation: See your images appear as they're generated
 
+## Interfaces
+
+<img width="1622" height="963" alt="Screenshot 2025-10-29 232928" src="https://github.com/user-attachments/assets/4f989338-3d7b-4a03-8d85-c30540d94359" />
+<img width="1642" height="981" alt="Screenshot 2025-10-29 230909" src="https://github.com/user-attachments/assets/f22e24b1-6bf5-44dd-be68-3529ba2078b0" />
+<img width="1650" height="975" alt="Screenshot 2025-10-29 231001" src="https://github.com/user-attachments/assets/5a3a4a53-a17c-43b5-8416-de03472d2557" />
+<img width="1622" height="969" alt="Screenshot 2025-10-29 232750" src="https://github.com/user-attachments/assets/798cfd64-fd81-467a-9701-2f4cf4c963eb" />
+<img width="1633" height="979" alt="Screenshot 2025-10-29 232901" src="https://github.com/user-attachments/assets/2a53d5e5-85c5-4f7f-9042-b2b71c87da42" />
+
 ## Tech Stack
 
 ### Frontend
