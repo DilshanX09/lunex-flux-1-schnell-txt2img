@@ -1,5 +1,7 @@
 # Lunex/flux-1-schnell-txt2img
 
+![Group 10](https://github.com/user-attachments/assets/4331475a-18b2-428c-8064-c0693c10577a)
+
 A modern, chat-based text-to-image generation application powered by FLUX.1 Schnell. Generate stunning AI images through an intuitive conversational interface, similar to ChatGPT but for image creation.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
